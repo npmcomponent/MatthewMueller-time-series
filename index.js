@@ -2,8 +2,8 @@
  * Module dependencies
  */
 
-var domify = require('domify'),
-    svg = require('svg'),
+// commented out by npm-component: var domify = require('component-domify'),
+    svg = require('matthewmueller-svg'),
     ms = require('ms'),
     html = domify(require('./template'))[0];
 

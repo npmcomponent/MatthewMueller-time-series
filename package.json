@@ -1,0 +1,20 @@
+{
+  "name": "matthewmueller-time-series",
+  "description": "simple time series graphs",
+  "version": "0.1.0",
+  "keywords": [
+    "svg",
+    "time",
+    "series",
+    "graph"
+  ],
+  "styles": [
+    "time-series.css"
+  ],
+  "dependencies": {
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "guille-ms.js": "git://github.com/npmcomponent/guille-ms.js.git",
+    "matthewmueller-svg": "git://github.com/npmcomponent/matthewmueller-svg.git"
+  },
+  "license": "MIT"
+}
